@@ -2,4 +2,4 @@
 An exercise for 'DevOps and SRE' on HTW Berlin
 
 ## UUIDs
-- 74390529-90a7-47e1-8b5e-204e7c22e709
+-a351a1d3-dd5b-4446-bef5-354a7a8f5fc0
